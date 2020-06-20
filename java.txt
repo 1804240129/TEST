@@ -1,0 +1,9 @@
+Student id=zza
+name=250.0
+time=2020-06-19 08:06:45
+Student id=zza
+name=99.0
+time=2020-06-19 08:06:02
+Student id=zza
+name=60.0
+time=2020-06-19 09:06:55
